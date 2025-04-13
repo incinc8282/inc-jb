@@ -3,85 +3,85 @@
     {
       "name": "beIN SPORTS HD1",
       "url": "https://stream.sainaertebat.com/hls2/bein1.m3u8",
-      "logo": "bei.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
       "category": "بي ان سبورت"
     },
     {
       "name": "beIN SPORTS HD2",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/240_.m3u8?",
-      "logo": "bei.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
       "category": "بي ان سبورت"
     },
     {
       "name": "beIN SPORTS HD3",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/241_.m3u8?",
-      "logo": "bei.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
       "category": "بي ان سبورت"
     },
     {
       "name": "beIN SPORTS HD4",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/1_.m3u8?",
-      "logo": "bei.png",
-      "category":  "بي ان سبورت"
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
+      "category": "بي ان سبورت"
     },
     {
       "name": "beIN SPORTS HD5",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/32_.m3u8?",
-      "logo": "bei.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
       "category": "بي ان سبورت"
     },
     {
       "name": "SSC 1",
       "url": "https://stream.sainaertebat.com/hls2/ssc1.m3u8",
-      "logo": "ssc.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
     },
     {
       "name": "SSC 2",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/163_.m3u8?",
-      "logo": "ssc.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
     },
     {
       "name": "SSC 3",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/147_.m3u8?",
-      "logo": "ssc.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
     },
     {
       "name": "SSC 4",
-      "url": "https://https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/178_.m3u8?",
-      "logo": "ssc.png",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/178_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
     },
     {
       "name": "SSC 5",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/179_.m3u8?",
-      "logo": "ssc.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
     },
     {
       "name": "SSC Extra1",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/193_.m3u8?",
-      "logo": "ssc.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
     },
     {
       "name": "SSC Extra2",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/226_.m3u8?",
-      "logo": "ssc.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
     },
     {
       "name": "الكأس 1",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/73_.m3u8?",
-      "logo": "2.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4718.jpg",
       "category": "الكأس سبورت"
     },
     {
       "name": "ON Sports",
       "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-      "logo": "3.png",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "أو أن سبورت"
     }
   ]
