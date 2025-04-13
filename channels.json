@@ -1,7 +1,7 @@
 {
   "channels": [
     {
-      "name": "beINN SPORTS HD1",
+      "name": "beIN SPORTS HD1",
       "url": "https://stream.sainaertebat.com/hls2/bein1.m3u8",
       "logo": "https://img.upanh.tv/2025/04/14/IMG_4720.jpg",
       "category": "بي ان سبورت"
@@ -68,6 +68,12 @@
     },
     {
       "name": "SSC Extra2",
+      "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/226_.m3u8?",
+      "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
+      "category": "SSC"
+    },
+        {
+      "name": "SSC Extra3",
       "url": "https://cdn1-europe.mgmlcdn.s-cloudflare.com:25463/xH5gc4mOg8vw4txxz36/226_.m3u8?",
       "logo": "https://img.upanh.tv/2025/04/14/IMG_4721.jpg",
       "category": "SSC"
